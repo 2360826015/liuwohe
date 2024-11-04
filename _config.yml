@@ -17,7 +17,7 @@ favicon: favicon.ico
 
 repository: liuwohe/liuwohe.github.io
 github_url: https://github.com/liuwohe
-url: http://www.liuwohe.com
+url: https://liuwohe.github.io
 enforce_ssl: liuwohe.com
 
 ## Gem
